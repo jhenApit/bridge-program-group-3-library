@@ -69,7 +69,7 @@ namespace DateHelperLibrary
         /// <param name="dateTime">Input Date and Time</param>
         /// <param name="format">Input the new format of the Date and Time</param>
         /// <returns>New format of the Date and Time</returns>
-        public static string FormatDateTime(DateTime dateTime, string format)
+        public string FormatDateTime(DateTime dateTime, string format)
         {
             return dateTime.ToString(format);
         }

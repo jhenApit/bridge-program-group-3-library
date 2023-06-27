@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhena\\Downloads\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj": {}
+    "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhena\\Downloads\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj": {
+    "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhena\\Downloads\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj",
         "projectName": "DateHelperLibrary",
-        "projectPath": "C:\\Users\\jhena\\Downloads\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj",
+        "projectPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelperLibrary\\DateHelperLibrary\\DateHelperLibrary.csproj",
         "packagesPath": "C:\\Users\\jhena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhena\\Downloads\\DateHelperLibrary\\DateHelperLibrary\\obj\\",
+        "outputPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelperLibrary\\DateHelperLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhena\\AppData\\Roaming\\NuGet\\NuGet.Config",
