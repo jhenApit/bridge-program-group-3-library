@@ -37,6 +37,12 @@ namespace DateHelperLibrary
             return endDateTime - startDateTime;
         }
 
+        /// <summary>
+        /// Adds any number of days to the given date.
+        /// </summary>
+        /// <param name="date">Date with year, month, and day.</param>
+        /// <param name="days">Number of days to add in the given date.</param>
+        /// <returns>Updated date</returns>
         public DateTime AddDays(DateTime date, int days)
         {
             return date.AddDays(days);
