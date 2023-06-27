@@ -32,17 +32,9 @@ namespace DateHelperLibrary
             return dateTime.ToString(format);
         }
 
-        public int CalculateAge(DateTime birthDate)
+        public DateTime AddDays(DateTime date, int days)
         {
-            int age = DateTime.Now.Year - birthDate.Year;
-
-            if (DateTime.Now.Month < birthDate.Month ||
-                (DateTime.Now.Month == birthDate.Month && DateTime.Now.Day < birthDate.Day))
-            {
-                age--;
-            }
-
-            return age;
+            return date.AddDays(days);
         }
     }
 }
