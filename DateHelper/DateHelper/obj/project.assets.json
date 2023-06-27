@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jhena\\.nuget\\packages\\": {}
+    "C:\\Users\\Elaiza Faye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelper.csproj",
+      "projectUniqueName": "C:\\Users\\Elaiza Faye\\Desktop\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelper.csproj",
       "projectName": "DateHelper",
-      "projectPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelper.csproj",
-      "packagesPath": "C:\\Users\\jhena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\obj\\",
+      "projectPath": "C:\\Users\\Elaiza Faye\\Desktop\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelper.csproj",
+      "packagesPath": "C:\\Users\\Elaiza Faye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elaiza Faye\\Desktop\\summer-bridge-program-library\\DateHelper\\DateHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elaiza Faye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,5 +6,10 @@
         {
             return DateTime.Now;
         }
+
+        public DayOfWeek GetDayOfWeek(DateTime date)
+        {
+            return date.DayOfWeek;
+        }
     }
 }
