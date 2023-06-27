@@ -40,7 +40,19 @@ namespace DateHelperLibrary
             return age;
         }
 
-        public string FormatDateTime(DateTime dateTime, string format)
+        /// <summary>
+        /// Format the input date based on the format
+        /// that you provide
+        /// </summary>
+        /// 
+        /// Sample:
+        ///         Input Date: YYYY-MM-DD HH:MM:SS
+        ///         Input Date format: MM/dd/yyyy HH:mm:ss
+        /// 
+        /// <param name="dateTime">Input Date</param>
+        /// <param name="format">Input Date format</param>
+        /// <returns>New format of the Date</returns>
+        public static string FormatDateTime(DateTime dateTime, string format)
         {
             return dateTime.ToString(format); 
         }
