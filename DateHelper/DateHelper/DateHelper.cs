@@ -8,7 +8,15 @@ namespace DateHelperLibrary
         {
             return DateTime.Now;
         }
-
+        /// <summary>
+        /// this method returns true if year is leap year :))
+        /// </summary>
+        /// <param name="year"></param>
+        /// <returns>bool</returns>
+        public bool IsLeapYear (int year)
+        {
+            return DateTime.IsLeapYear(year);
+        }
         public DayOfWeek GetDayOfWeek(DateTime date)
         {
             return date.DayOfWeek;
