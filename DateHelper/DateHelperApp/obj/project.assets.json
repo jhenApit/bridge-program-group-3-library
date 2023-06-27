@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelperLibrary.csproj",
-      "projectName": "DateHelperLibrary",
-      "projectPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\DateHelperLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
+      "projectName": "DateHelperApp",
+      "projectPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
       "packagesPath": "C:\\Users\\jhena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelper\\obj\\",
+      "outputPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhena\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateHelper", "DateHelper\DateHelper.csproj", "{DDEBFDFB-3272-4F94-A121-EB6A8AA20E8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateHelperLibrary", "DateHelper\DateHelperLibrary.csproj", "{DDEBFDFB-3272-4F94-A121-EB6A8AA20E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateHelperApp", "DateHelperApp\DateHelperApp.csproj", "{BBA57ADD-FBED-46FE-88BD-1B0413A81FB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DDEBFDFB-3272-4F94-A121-EB6A8AA20E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDEBFDFB-3272-4F94-A121-EB6A8AA20E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDEBFDFB-3272-4F94-A121-EB6A8AA20E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA57ADD-FBED-46FE-88BD-1B0413A81FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA57ADD-FBED-46FE-88BD-1B0413A81FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA57ADD-FBED-46FE-88BD-1B0413A81FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA57ADD-FBED-46FE-88BD-1B0413A81FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

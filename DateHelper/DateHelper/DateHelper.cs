@@ -1,4 +1,4 @@
-﻿namespace DateHelper
+﻿namespace DateHelperLibrary
 {
     public class DateHelper
     {
