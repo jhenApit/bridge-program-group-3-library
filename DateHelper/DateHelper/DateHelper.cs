@@ -14,12 +14,12 @@ namespace DateHelperLibrary
             return date.DayOfWeek;
         }
 
-        public int CalculateAge(DateTime birthdate)
+        public int CalculateAge(DateTime birthDate)
         {
-            int age = DateTime.Now.Year - birthdate.Year;
+            int age = DateTime.Now.Year - birthDate.Year;
 
-            if (DateTime.Now.Month < birthdate.Month ||
-                (DateTime.Now.Month == birthdate.Month && DateTime.Now.Day < birthdate.Day))
+            if (DateTime.Now.Month < birthDate.Month ||
+                (DateTime.Now.Month == birthDate.Month && DateTime.Now.Day < birthDate.Day))
             {
                 age--;
             }
