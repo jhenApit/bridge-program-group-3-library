@@ -14,6 +14,19 @@ namespace DateHelperLibrary
             return date.DayOfWeek;
         }
 
+        public int CalculateAge(DateTime birthdate)
+        {
+            int age = DateTime.Now.Year - birthdate.Year;
+
+            if (DateTime.Now.Month < birthdate.Month ||
+                (DateTime.Now.Month == birthdate.Month && DateTime.Now.Day < birthdate.Day))
+            {
+                age--;
+            }
+
+            return age;
+        }
+
         public string FormatDateTime(DateTime dateTime, string format)
         {
             return dateTime.ToString(format);
@@ -22,6 +35,11 @@ namespace DateHelperLibrary
          public TimeSpan GetTimeDifference(DateTime startDateTime, DateTime endDateTime)
         {
             return endDateTime - startDateTime;
+        }
+
+        public DateTime AddDays(DateTime date, int days)
+        {
+            return date.AddDays(days);
         }
     }
 }
