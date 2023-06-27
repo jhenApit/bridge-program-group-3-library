@@ -11,9 +11,9 @@ namespace DateHelperLibrary
         /// <summary>
         /// this method returns true if year is leap year :))
         /// </summary>
-        /// <param name="year"></param>
-        /// <returns>bool</returns>
-        public bool IsLeapYear (int year)
+        /// <param name="year"> year for example 2020 </param>
+        /// <returns>bool,either true or false </returns>
+        public bool IsLeapYear (int year) 
         {
             return DateTime.IsLeapYear(year);
         }
@@ -21,7 +21,12 @@ namespace DateHelperLibrary
         {
             return date.DayOfWeek;
         }
-
+        
+        /// <summary>
+        /// Calculates the age of someone
+        /// </summary>
+        /// <param name="birthDate">The date of birth.</param>
+        /// <returns>An integer representing the age of someone.</returns>
         public int CalculateAge(DateTime birthDate)
         {
             int age = DateTime.Now.Year - birthDate.Year;
