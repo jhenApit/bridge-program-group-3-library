@@ -13,7 +13,7 @@ namespace DateHelperLibrary
         /// </summary>
         /// <param name="year"> year for example 2020 </param>
         /// <returns>bool,either true or false </returns>
-        public bool IsLeapYear (int year)
+        public bool IsLeapYear (int year) 
         {
             return DateTime.IsLeapYear(year);
         }
