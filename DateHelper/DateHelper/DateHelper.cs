@@ -32,6 +32,12 @@ namespace DateHelperLibrary
             return dateTime.ToString(format);
         }
 
+        /// <summary>
+        /// Calculates the time difference between the start and end date and time.
+        /// </summary>
+        /// <param name="startDateTime">The start date and time.</param>
+        /// <param name="endDateTime">The end date and time.</param>
+        /// <returns>The time span representing the difference between the start and end date and time.</returns>
          public TimeSpan GetTimeDifference(DateTime startDateTime, DateTime endDateTime)
         {
             return endDateTime - startDateTime;
