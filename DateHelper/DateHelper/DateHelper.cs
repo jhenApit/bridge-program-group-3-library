@@ -32,6 +32,11 @@ namespace DateHelperLibrary
             return dateTime.ToString(format);
         }
 
+         public TimeSpan GetTimeDifference(DateTime startDateTime, DateTime endDateTime)
+        {
+            return endDateTime - startDateTime;
+        }
+
         public DateTime AddDays(DateTime date, int days)
         {
             return date.AddDays(days);
