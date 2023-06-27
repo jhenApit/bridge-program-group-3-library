@@ -12,6 +12,7 @@ namespace DateHelperLibrary
         {
             return DateTime.Now;
         }
+
         /// <summary>
         /// Determines whether a given year is a leap year.
         /// </summary>
@@ -23,6 +24,12 @@ namespace DateHelperLibrary
         {
             return DateTime.IsLeapYear(year);
         }
+
+        /// <summary>
+        /// Returns the day of the week for a given date.
+        /// </summary>
+        /// <param name="date">The date for which to determine the day of the week.</param>
+        /// <returns>The day of the week as defined in the DayOfWeek enum.</returns>
         public DayOfWeek GetDayOfWeek(DateTime date)
         {
             return date.DayOfWeek;
