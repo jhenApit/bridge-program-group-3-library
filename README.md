@@ -2,7 +2,6 @@
 The DateHelper library provides various methods to perform date and time operations in C#. This guide will walk you through the setup and installation process of the library.
 
 ## Features
-
 The DateHelper library offers the following features:
 
 - `GetCurrentDateTime`: Get the current date and time.
@@ -31,18 +30,16 @@ To use the DateHelper library in your C# project, follow these steps:
 5. Navigate to the directory where you extracted the DateHelperLibrary.
 6. Select the `DateHelperLibrary.dll` file and click the "Add" button.
 7. Click the "OK" button to close the Reference Manager window.
-8. 
 
 ## Usage
 To use the DateHelper library in your C# code, follow these steps:
-
 1. Add the following using statement at the top of your C# file:
 ```
 using DateHelperLibrary;
 ```
 2. Create an instance of the DateHelper class:
 ```
-DateHelperClass dateHelperClass = new DateHelperClass();
+DateHelper dateHelper = new DateHelper();
 ```
 3. You can now call the various methods provided by the DateHelper class. Here are some examples:
 ```
