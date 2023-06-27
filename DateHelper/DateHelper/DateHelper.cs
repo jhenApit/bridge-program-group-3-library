@@ -27,12 +27,12 @@ namespace DateHelperLibrary
         {
             return date.DayOfWeek;
         }
-        
+
         /// <summary>
-        /// Calculates the age of someone
+        /// Calculate the age based on a given birthdate
         /// </summary>
         /// <param name="birthDate">The date of birth.</param>
-        /// <returns>An integer representing the age of someone.</returns>
+        /// <returns>An age in integer format</returns>
         public int CalculateAge(DateTime birthDate)
         {
             int age = DateTime.Now.Year - birthDate.Year;
