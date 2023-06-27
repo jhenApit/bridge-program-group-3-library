@@ -36,17 +36,17 @@ namespace DateHelperLibrary
         }
 
         /// <summary>
-        /// Format the input date based on the format
-        /// that you provide
+        /// Format the input Date and Time based on the format
+        /// Date and Time that you provide
         /// </summary>
         /// 
         /// Sample:
-        ///         Input Date: YYYY-MM-DD HH:MM:SS
-        ///         Input Date format: MM/dd/yyyy HH:mm:ss
+        ///         Input Date and Time: YYYY-MM-DD HH:MM:SS
+        ///         Input the format Date and Time: MM/dd/yyyy HH:mm:ss
         /// 
-        /// <param name="dateTime">Input Date</param>
-        /// <param name="format">Input Date format</param>
-        /// <returns>New format of the Date</returns>
+        /// <param name="dateTime">Input Date and Time</param>
+        /// <param name="format">Input the new format of the Date and Time</param>
+        /// <returns>New format of the Date and Time</returns>
         public static string FormatDateTime(DateTime dateTime, string format)
         {
             return dateTime.ToString(format); 
