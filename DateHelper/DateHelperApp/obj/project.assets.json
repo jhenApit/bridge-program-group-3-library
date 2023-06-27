@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jhena\\.nuget\\packages\\": {}
+    "C:\\Users\\jmsen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
+      "projectUniqueName": "M:\\Alliance - Bridging Program\\Group 3\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
       "projectName": "DateHelperApp",
-      "projectPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
-      "packagesPath": "C:\\Users\\jhena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhena\\Downloads\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\obj\\",
+      "projectPath": "M:\\Alliance - Bridging Program\\Group 3\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\DateHelperApp.csproj",
+      "packagesPath": "C:\\Users\\jmsen\\.nuget\\packages\\",
+      "outputPath": "M:\\Alliance - Bridging Program\\Group 3\\summer-bridge-program-library\\DateHelper\\DateHelperApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jhena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
