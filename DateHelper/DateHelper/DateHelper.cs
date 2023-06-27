@@ -18,5 +18,18 @@ namespace DateHelperLibrary
         {
             return dateTime.ToString(format);
         }
+
+        public int CalculateAge(DateTime birthDate)
+        {
+            int age = DateTime.Now.Year - birthDate.Year;
+
+            if (DateTime.Now.Month < birthDate.Month ||
+                (DateTime.Now.Month == birthDate.Month && DateTime.Now.Day < birthDate.Day))
+            {
+                age--;
+            }
+
+            return age;
+        }
     }
 }
