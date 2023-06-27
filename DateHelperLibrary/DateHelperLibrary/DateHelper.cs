@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DateHelperLibrary
 {
-    public class DateHelperClass
+    public class DateHelper
     {
         /// <summary>
         /// Gets the current date time.
