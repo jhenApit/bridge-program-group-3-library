@@ -18,5 +18,10 @@ namespace DateHelperLibrary
         {
             return dateTime.ToString(format);
         }
+
+         public TimeSpan GetTimeDifference(DateTime startDateTime, DateTime endDateTime)
+        {
+            return endDateTime - startDateTime;
+        }
     }
 }
