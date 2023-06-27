@@ -4,15 +4,21 @@ namespace DateHelperLibrary
 {
     public class DateHelper
     {
+        /// <summary>
+        /// Gets the current date time.
+        /// </summary>
+        /// <returns>The current date and time.</returns>
         public DateTime GetCurrentDateTime()
         {
             return DateTime.Now;
         }
         /// <summary>
-        /// this method returns true if year is leap year :))
+        /// Determines whether a given year is a leap year.
         /// </summary>
-        /// <param name="year"> year for example 2020 </param>
-        /// <returns>bool,either true or false </returns>
+        /// <param name="year">The year to check.</param>
+        /// <returns>
+        ///   <c>true</c> if the specified year is a leap year; otherwise, <c>false</c>.
+        /// </returns>
         public bool IsLeapYear (int year) 
         {
             return DateTime.IsLeapYear(year);
