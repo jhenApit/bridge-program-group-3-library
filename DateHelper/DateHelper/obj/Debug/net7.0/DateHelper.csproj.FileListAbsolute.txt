@@ -1,0 +1,12 @@
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\bin\Debug\net7.0\DateHelper.deps.json
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\bin\Debug\net7.0\DateHelper.dll
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\bin\Debug\net7.0\DateHelper.pdb
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.csproj.AssemblyReference.cache
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.AssemblyInfoInputs.cache
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.AssemblyInfo.cs
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.csproj.CoreCompileInputs.cache
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.dll
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\refint\DateHelper.dll
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\DateHelper.pdb
+C:\Users\jhena\Downloads\summer-bridge-program-library\DateHelper\DateHelper\obj\Debug\net7.0\ref\DateHelper.dll
