@@ -37,7 +37,7 @@ namespace DateHelperLibrary
 
         public string FormatDateTime(DateTime dateTime, string format)
         {
-            return dateTime.ToString(format);
+            return dateTime.ToString(format); 
         }
 
          public TimeSpan GetTimeDifference(DateTime startDateTime, DateTime endDateTime)
