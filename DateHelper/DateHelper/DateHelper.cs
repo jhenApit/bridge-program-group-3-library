@@ -11,8 +11,8 @@ namespace DateHelperLibrary
         /// <summary>
         /// this method returns true if year is leap year :))
         /// </summary>
-        /// <param name="year"> year </param>
-        /// <returns>bool</returns>
+        /// <param name="year"> year for example 2020 </param>
+        /// <returns>bool,either true or false </returns>
         public bool IsLeapYear (int year)
         {
             return DateTime.IsLeapYear(year);
