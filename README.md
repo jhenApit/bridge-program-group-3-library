@@ -17,8 +17,8 @@ Before you begin, ensure that you have the following prerequisites installed on 
 - Microsoft .NET Framework (version 4.5 or later) or .NET Core (version 2.0 or later) installed.
 
 ## Installation
-1. Download the **DateHelperLibrary** file from the GitHub repository.
-2. Extract the contents of the file to a directory of your choice.
+1. Download the **DateHelper Library** ZIP file from the GitHub repository.
+3. Extract the contents of the file to a directory of your choice.
 
 ## Adding the Library to Your Project
 To use the DateHelper library in your C# project, follow these steps:
